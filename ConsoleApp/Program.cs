@@ -1,6 +1,7 @@
 ﻿using SubtypeCovariance;
+using System.Reflection.Metadata;
 
-class Program
+class Program 
 {
     static void Main(string[] args)
     {
